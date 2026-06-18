@@ -74,7 +74,26 @@ Ask these questions. If the user is in a hurry, let them skip any question marke
 1. What role are you hiring for? (title, full-time or part-time)
 2. Is this a backfill, a growth hire, or succession planning?
 3. What is your compensation range? Base salary plus bonus if applicable. (optional, but unlocks better copy)
-4. What are your top three reasons a strong PT candidate should choose you over another offer? If stuck, prompt them: schedule flexibility, mentorship, advanced specialties, technology, culture, career growth path, location, compensation.
+4. What are your differentiators as an employer? These are the reasons a strong PT candidate would choose you over another offer. List as many as apply.
+
+   Present this example to help them think it through:
+
+   > Here is what a well-differentiated practice looks like. Madden and Gilbert PT in Central PA leads with:
+   > - COMT (Certified Orthopedic Manual Therapy) training covered 100% within two years
+   > - 60 visits per week at 40-minute sessions — well below the industry burnout threshold
+   > - No weekend hours, ever
+   > - Clear career ladder: staff PT to clinical director to potential equity
+   > - Open-book financials and a production bonus
+   > - Daily mentorship from FAAOMPT-credentialed clinicians
+   > - Advanced technology: LightForce laser, RunDNA, vestibular program
+   > - Six locations, therapist-led culture
+   >
+   > Think about your practice from a clinician's point of view. What do you offer that most clinics in your area do not? Consider: schedule and work-life balance, mentorship and training, productivity expectations, career growth, compensation structure, specialties and technology, culture, and location.
+   >
+   > List your differentiators here — even rough notes are fine. We will sharpen them together.
+
+   Take whatever they give and use it. If they list only two or three things, that is enough to work with.
+
 5. What is your productivity standard? Visits per week, session length.
 6. Do you offer any advanced training or certifications? Examples: COMT, dry needling, Pilates, running analysis, vestibular.
 7. How urgent is this hire? (ASAP, within 90 days, or planning ahead)
