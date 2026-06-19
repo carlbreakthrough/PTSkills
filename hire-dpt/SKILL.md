@@ -31,7 +31,14 @@ Ask questions in groups, one group at a time. Wait for answers before moving to 
 
 **Group 2: Culture and Values**
 5. How would your current staff describe working there in three words?
+
+   > Examples: collaborative, growth-focused, low-ego / tight-knit, high-standards, no-drama / mentorship-driven, patient-first, fun
+
 6. What are your core values, formal or informal? If you haven't defined them, answer this instead: what do you look for in every hire, no matter the role?
+
+   > Example from Madden and Gilbert PT: Beginner's Mind (humble, always learning), Insistence on Outcomes (visceral reaction when patients plateau), Team Player (elevates the people around them).
+   >
+   > Yours do not need to be this formal. Even a rough answer like "coachable, outcomes-obsessed, good with people" is enough to work with.
 7. What is one thing about your practice that you are genuinely proud of that most PT clinics cannot say?
 
 **Group 3: Size and Context**
